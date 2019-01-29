@@ -18,3 +18,13 @@
     $ git commit -am done
     $ git push
 ```
+
+
+## Repair from my lost instructions
+
+You can update your version to include instructions (loses your
+changes thus far) by running
+
+```
+git pull https://github.com/cucs-numcomp/numcomp-2019-01-29-conditioning
+```
